@@ -61,9 +61,28 @@
 - [supplement01_进制与位运算](Python语法/supplement01_进制与位运算.md)
 
 ### JavaSE基础
-Java学习笔记：
+Java基础学习笔记，从入门到进阶：
 
+**基础部分**
 - [day01_java入门](JavaSE基础/day01_java入门.md)
+- [day02_变量与数据类型](JavaSE基础/day02_变量与数据类型.md)
+- [day03_运算符](JavaSE基础/day03_运算符.md)
+- [day04_程序控制结构](JavaSE基础/day04_程序控制结构.md)
+- [day05_数组,排序与查找](JavaSE基础/day05_数组,排序与查找.md)
+
+**面向对象**
+- [day06_面向对象(基础)](JavaSE基础/day06_面向对象(基础).md)
+- [day07_面向对象(中级)](JavaSE基础/day07_面向对象(中级).md)
+- [day08_面向对象(高级)](JavaSE基础/day08_面向对象(高级).md)
+- [day09_枚举和注解](JavaSE基础/day09_枚举和注解.md)
+- [day10_异常](JavaSE基础/day10_异常.md)
+
+**常用类与集合**
+- [day11_常用类1](JavaSE基础/day11_常用类1.md)
+- [day12_常用类2](JavaSE基础/day12_常用类2.md)
+- [day13_集合1](JavaSE基础/day13_集合1.md)
+- [day14_集合2](JavaSE基础/day14_集合2.md)
+- [day15_泛型](JavaSE基础/day15_泛型.md)
 
 ### MySQL学习
 MySQL数据库学习笔记，从基础到进阶：
