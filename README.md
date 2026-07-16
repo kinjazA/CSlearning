@@ -65,6 +65,18 @@ Java学习笔记：
 
 - [day01_java入门](JavaSE基础/day01_java入门.md)
 
+### MySQL学习
+MySQL数据库学习笔记，从基础到进阶：
+
+- [day01_初入SQL](MySQL学习/day01_初入SQL.md)
+- [day02_表](MySQL学习/day02_表.md)
+- [day03_增删改查](MySQL学习/day03_增删改查.md)
+- [day04_函数](MySQL学习/day04_函数.md)
+- [day05_多表查询](MySQL学习/day05_多表查询.md)
+- [day06_窗口函数](MySQL学习/day06_窗口函数.md)
+- [day07_CTE](MySQL学习/day07_CTE.md)
+- [day08_索引](MySQL学习/day08_索引.md)
+
 ### PyTorch学习
 深度学习框架PyTorch的学习笔记，从基础到实战：
 
