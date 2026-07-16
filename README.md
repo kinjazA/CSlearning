@@ -52,6 +52,34 @@ Java学习笔记：
 
 - [day01_java入门](JavaSE基础/day01_java入门.md)
 
+### PyTorch学习
+深度学习框架PyTorch的学习笔记，从基础到实战：
+
+**基础部分**
+- [day01_张量1](PyTorch学习/day01_张量1.md)
+- [day01_张量2](PyTorch学习/day01_张量2.md)
+- [day02_自动微分及线性回归例子](PyTorch学习/day02_自动微分及线性回归例子.md)
+- [day03_nn模块](PyTorch学习/day03_nn模块.md)
+- [day04_学习率衰减方法](PyTorch学习/day04_学习率衰减方法.md)
+- [day05_ANN案例](PyTorch学习/day05_ANN案例.md)
+
+**计算机视觉**
+- [day06_图像相关](PyTorch学习/day06_图像相关.md)
+- [day07_CNN](PyTorch学习/day07_CNN.md)
+- [day08_AlexNet](PyTorch学习/day08_AlexNet.md)
+- [day09_VGG](PyTorch学习/day09_VGG.md)
+- [day10_NiN](PyTorch学习/day10_NiN.md)
+- [day11_GoogLeNet](PyTorch学习/day11_GoogLeNet.md)
+- [day12_ResNet](PyTorch学习/day12_ResNet.md)
+- [day13_ResNet迁移策略1](PyTorch学习/day13_ResNet迁移策略1.md)
+- [day13_ResNet迁移策略2](PyTorch学习/day13_ResNet迁移策略2.md)
+
+**注意力机制与Transformer**
+- [day14_注意力机制1](PyTorch学习/day14_注意力机制1.md)
+- [day14_注意力机制2](PyTorch学习/day14_注意力机制2.md)
+- [day14_Transformer](PyTorch学习/day14_Transformer.md)
+- [day15_BERT](PyTorch学习/day15_BERT.md)
+
 ## 📝 笔记说明
 
 这些笔记是我在学习过程中整理的知识点总结，主要包括：
