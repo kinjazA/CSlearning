@@ -41,13 +41,21 @@
 
 ---
 
-### 🤖 机器学习笔记 (7篇)
+### 🤖 机器学习笔记 (73篇)
 
 **NumPy** [创建数组](机器学习笔记/numpy/day01_创建数组.md) · [索引切片](机器学习笔记/numpy/day02_索引切片.md) · [常用函数](机器学习笔记/numpy/day03_常用函数.md)
 
 **Pandas** [基础入门](机器学习笔记/pandas/day01_基础入门.md) · [索引](机器学习笔记/pandas/day02_索引.md) · [分组](机器学习笔记/pandas/day03_分组.md)
 
-**其他工具** [Numba](机器学习笔记/numba/学习大纲.md) · [Joblib](机器学习笔记/joblib/code/) · [Optuna](机器学习笔记/optuna/code/) · [Prophet](机器学习笔记/prophet/code/) · [SciPy](机器学习笔记/scipy/)
+**Numba** [学习大纲](机器学习笔记/numba/学习大纲.md) · [概述与安装](机器学习笔记/numba/doc/ch01-概述与安装.md) · [JIT装饰器](机器学习笔记/numba/doc/ch02-基础用法-JIT装饰器.md) · [类型系统](机器学习笔记/numba/doc/ch03-Numba类型系统.md) · [GPU加速](机器学习笔记/numba/doc/ch09-GPU加速入门.md) · [更多 →](机器学习笔记/numba/doc/)
+
+**Joblib** [学习大纲](机器学习笔记/joblib/doc/00-学习大纲.md) · [序列化](机器学习笔记/joblib/doc/02-dump-load-序列化.md) · [并行](机器学习笔记/joblib/doc/07-Parallel-delayed-并行.md) · [更多 →](机器学习笔记/joblib/doc/)
+
+**Optuna** [核心概念](机器学习笔记/optuna/docs/01-核心概念与基础用法.md) · [采样器](机器学习笔记/optuna/docs/02-采样器原理深入.md) · [剪枝策略](机器学习笔记/optuna/docs/03-剪枝策略实战.md) · [更多 →](机器学习笔记/optuna/docs/)
+
+**Prophet** [快速入门](机器学习笔记/prophet/doc/chapter02-Prophet快速入门.md) · [趋势建模](机器学习笔记/prophet/doc/chapter03-趋势建模.md) · [季节性](机器学习笔记/prophet/doc/chapter04-季节性建模.md) · [更多 →](机器学习笔记/prophet/doc/)
+
+**SciPy** [信号生成](机器学习笔记/scipy/scipy.signal/doc/01_信号生成与基本操作.md) · [滤波器设计](机器学习笔记/scipy/scipy.signal/doc/03_FIR滤波器设计_窗口法.md) · [频谱分析](机器学习笔记/scipy/scipy.signal/doc/07_频谱分析与功率谱密度估计.md) · [更多 →](机器学习笔记/scipy/scipy.signal/doc/)
 
 ---
 
@@ -88,11 +96,11 @@
 | Python语法 | 20 | 基础语法、面向对象、高级特性、异步编程 |
 | JavaSE基础 | 15 | Java语法、OOP、集合框架、常用类库 |
 | MySQL学习 | 8 | SQL基础、查询优化、窗口函数、索引 |
-| 机器学习笔记 | 7 | NumPy、Pandas、Numba、Joblib、Optuna、Prophet、SciPy |
+| 机器学习笔记 | 73 | NumPy、Pandas、Numba、Joblib、Optuna、Prophet、SciPy |
 | FastAPI学习 | 33 | 基础篇23章、进阶篇10章 |
 | PyTorch学习 | 24 | 深度学习基础、计算机视觉、Transformer |
 
-**总计：124篇完整笔记**
+**总计：190篇完整笔记**
 
 ---
 
