@@ -41,6 +41,16 @@
 
 ---
 
+### 🤖 机器学习笔记 (7篇)
+
+**NumPy** [创建数组](机器学习笔记/numpy/day01_创建数组.md) · [索引切片](机器学习笔记/numpy/day02_索引切片.md) · [常用函数](机器学习笔记/numpy/day03_常用函数.md)
+
+**Pandas** [基础入门](机器学习笔记/pandas/day01_基础入门.md) · [索引](机器学习笔记/pandas/day02_索引.md) · [分组](机器学习笔记/pandas/day03_分组.md)
+
+**其他工具** [Numba加速](机器学习笔记/numba/学习大纲.md) · Joblib · Optuna · Prophet · SciPy
+
+---
+
 ### ⚡ FastAPI学习 (33篇)
 
 **基础篇**  
@@ -78,10 +88,11 @@
 | Python语法 | 20 | 基础语法、面向对象、高级特性、异步编程 |
 | JavaSE基础 | 15 | Java语法、OOP、集合框架、常用类库 |
 | MySQL学习 | 8 | SQL基础、查询优化、窗口函数、索引 |
+| 机器学习笔记 | 7 | NumPy、Pandas、Numba、Joblib、Optuna、Prophet、SciPy |
 | FastAPI学习 | 33 | 基础篇23章、进阶篇10章 |
 | PyTorch学习 | 24 | 深度学习基础、计算机视觉、Transformer |
 
-**总计：117篇完整笔记**
+**总计：124篇完整笔记**
 
 ---
 
