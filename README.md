@@ -47,7 +47,7 @@
 
 **Pandas** [基础入门](机器学习笔记/pandas/day01_基础入门.md) · [索引](机器学习笔记/pandas/day02_索引.md) · [分组](机器学习笔记/pandas/day03_分组.md)
 
-**其他工具** [Numba加速](机器学习笔记/numba/学习大纲.md) · Joblib · Optuna · Prophet · SciPy
+**其他工具** [Numba](机器学习笔记/numba/学习大纲.md) · [Joblib](机器学习笔记/joblib/code/) · [Optuna](机器学习笔记/optuna/code/) · [Prophet](机器学习笔记/prophet/code/) · [SciPy](机器学习笔记/scipy/)
 
 ---
 
