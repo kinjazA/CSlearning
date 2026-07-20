@@ -88,6 +88,20 @@
 
 ---
 
+### 📈 时间序列预测 (10篇)
+
+**传统范式** [DeepAR](时间序列预测/doc/01_traditional/01_deepar.md)
+
+**卷积范式** [TCN](时间序列预测/doc/02_convolution/01_tcn.md) · [TimesNet](时间序列预测/doc/02_convolution/02_timesnet.md) · [ModernTCN](时间序列预测/doc/02_convolution/03_moderntcn.md)
+
+**MLP范式** [DLinear](时间序列预测/doc/03_mlp/01_dlinear.md)
+
+**Transformer范式** [FEDformer](时间序列预测/doc/04_transformer/01_fedformer.md) · [PatchTST](时间序列预测/doc/04_transformer/02_patchtst.md) · [iTransformer](时间序列预测/doc/04_transformer/03_itransformer.md) · [TimeXer](时间序列预测/doc/04_transformer/04_timexer.md)
+
+**综述** [时序预测发展史与范式认知转变](时间序列预测/doc/时序预测发展史与范式认知转变.md)
+
+---
+
 ## 📊 仓库概览
 
 | 技术方向 | 笔记数量 | 主要内容 |
@@ -99,8 +113,9 @@
 | 机器学习笔记 | 73 | NumPy、Pandas、Numba、Joblib、Optuna、Prophet、SciPy |
 | FastAPI学习 | 33 | 基础篇23章、进阶篇10章 |
 | PyTorch学习 | 24 | 深度学习基础、计算机视觉、Transformer |
+| 时间序列预测 | 10 | DeepAR、TCN、TimesNet、DLinear、FEDformer等 |
 
-**总计：190篇完整笔记**
+**总计：200篇完整笔记**
 
 ---
 
