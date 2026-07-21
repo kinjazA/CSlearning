@@ -75,6 +75,12 @@
 
 ---
 
+### 🦜 LangChain学习 (11篇)
+
+[LangChain入门](LangChain/ch01_langchain.md) · [Agents](LangChain/ch02_Agents.md) · [Model](LangChain/ch03_Model.md) · [Messages](LangChain/ch04_Messages.md) · [Tools](LangChain/ch05_Tools.md) · [短期记忆](LangChain/ch06_ShortTermMemory.md) · [Streaming](LangChain/ch07_streaming.md) · [结构化输出](LangChain/ch08_structured_output.md) · [Middleware](LangChain/ch09_middleware.md) · [自定义Middleware](LangChain/ch10_自定义middleware.md) · [RAG检索增强生成](LangChain/ch20_Retrieval_RAG.md)
+
+---
+
 ### 🔥 PyTorch学习 (24篇)
 
 **基础部分**  
@@ -112,10 +118,11 @@
 | MySQL学习 | 8 | SQL基础、查询优化、窗口函数、索引 |
 | 机器学习笔记 | 73 | NumPy、Pandas、Numba、Joblib、Optuna、Prophet、SciPy |
 | FastAPI学习 | 33 | 基础篇23章、进阶篇10章 |
+| LangChain学习 | 11 | Agent、Model、Tools、Memory、RAG |
 | PyTorch学习 | 24 | 深度学习基础、计算机视觉、Transformer |
 | 时间序列预测 | 10 | DeepAR、TCN、TimesNet、DLinear、FEDformer等 |
 
-**总计：200篇完整笔记**
+**总计：211篇完整笔记**
 
 ---
 
