@@ -6,125 +6,93 @@
 
 ## 📚 笔记导航
 
-### 🔢 数据结构与算法 (17篇)
-
-**数据结构**  
-[数组](数据结构与算法/ch04_数组.md) · [链表](数据结构与算法/ch05_链表.md) · [栈](数据结构与算法/ch06_栈.md) · [队列](数据结构与算法/ch07_队列.md) · [双向队列](数据结构与算法/ch08_双向队列.md) · [串String](数据结构与算法/ch09_串String.md) · [二叉树](数据结构与算法/ch10_二叉树.md) · [哈夫曼树](数据结构与算法/ch11_哈夫曼树.md) · [二叉搜索树](数据结构与算法/ch12_二叉搜索树.md) · [图](数据结构与算法/ch13_图.md)
-
-**算法**  
-[搜索](数据结构与算法/ch14_搜索.md) · [排序](数据结构与算法/ch15_排序.md) · [分治](数据结构与算法/ch16_分治.md) · [回溯](数据结构与算法/ch17_回溯.md)
-
-**补充**  
-[二维数组](数据结构与算法/sup01_二维数组.md) · [十字链表与邻接多重表](数据结构与算法/sup02_十字链表与邻接多重表.md) · [递归的思想](数据结构与算法/sup03_递归的思想.md)
-
 ---
 
-### 🐍 Python语法 (20篇)
+### 🖥️ 编程语言
 
+**Python语法** (20篇)
 [变量与数据类型](Python语法/ch01_变量与数据类型.md) · [字符串与input](Python语法/ch02_字符串与input.md) · [布尔类型与if语句](Python语法/ch03_布尔类型与if语句.md) · [循环语句](Python语法/ch04_循环语句.md) · [函数](Python语法/ch05_函数.md) · [数据容器](Python语法/ch06_数据容器.md) · [函数进阶](Python语法/ch07_函数进阶.md) · [文件操作](Python语法/ch08_文件操作.md) · [异常/模块/包](Python语法/ch09_异常、模块与包.md) · [面向对象](Python语法/ch10_面向对象.md)
 
 [模式匹配与正则](Python语法/ch11_模式匹配与正则表达式.md) · [闭包](Python语法/ch12_闭包.md) · [装饰器](Python语法/ch13_装饰器.md) · [设计模式](Python语法/ch14_设计模式.md) · [推导式](Python语法/ch15_推导式.md) · [装饰器/生成器/上下文管理器](Python语法/ch16_装饰器_生成器_上下文管理器.md) · [异步编程](Python语法/ch17_异步编程.md) · [类型注解](Python语法/ch18_类型注解.md) · [进制与位运算](Python语法/supplement01_进制与位运算.md)
 
----
-
-### ☕ JavaSE基础 (15篇)
-
+**JavaSE基础** (15篇)
 [Java入门](JavaSE基础/day01_java入门.md) · [变量与数据类型](JavaSE基础/day02_变量与数据类型.md) · [运算符](JavaSE基础/day03_运算符.md) · [程序控制结构](JavaSE基础/day04_程序控制结构.md) · [数组/排序/查找](JavaSE基础/day05_数组,排序与查找.md) · [面向对象(基础)](JavaSE基础/day06_面向对象(基础).md) · [面向对象(中级)](JavaSE基础/day07_面向对象(中级).md) · [面向对象(高级)](JavaSE基础/day08_面向对象(高级).md)
 
 [枚举和注解](JavaSE基础/day09_枚举和注解.md) · [异常](JavaSE基础/day10_异常.md) · [常用类1](JavaSE基础/day11_常用类1.md) · [常用类2](JavaSE基础/day12_常用类2.md) · [集合1](JavaSE基础/day13_集合1.md) · [集合2](JavaSE基础/day14_集合2.md) · [泛型](JavaSE基础/day15_泛型.md)
 
 ---
 
-### 🗄️ MySQL学习 (8篇)
+### 🏗️ 计算机基础 & 数据库
 
+**数据结构与算法** (17篇)
+[数组](数据结构与算法/ch04_数组.md) · [链表](数据结构与算法/ch05_链表.md) · [栈](数据结构与算法/ch06_栈.md) · [队列](数据结构与算法/ch07_队列.md) · [双向队列](数据结构与算法/ch08_双向队列.md) · [串String](数据结构与算法/ch09_串String.md) · [二叉树](数据结构与算法/ch10_二叉树.md) · [哈夫曼树](数据结构与算法/ch11_哈夫曼树.md) · [二叉搜索树](数据结构与算法/ch12_二叉搜索树.md) · [图](数据结构与算法/ch13_图.md)
+
+[搜索](数据结构与算法/ch14_搜索.md) · [排序](数据结构与算法/ch15_排序.md) · [分治](数据结构与算法/ch16_分治.md) · [回溯](数据结构与算法/ch17_回溯.md) · [二维数组](数据结构与算法/sup01_二维数组.md) · [十字链表与邻接多重表](数据结构与算法/sup02_十字链表与邻接多重表.md) · [递归的思想](数据结构与算法/sup03_递归的思想.md)
+
+**MySQL学习** (8篇)
 [初入SQL](MySQL学习/day01_初入SQL.md) · [表](MySQL学习/day02_表.md) · [增删改查](MySQL学习/day03_增删改查.md) · [函数](MySQL学习/day04_函数.md) · [多表查询](MySQL学习/day05_多表查询.md) · [窗口函数](MySQL学习/day06_窗口函数.md) · [CTE](MySQL学习/day07_CTE.md) · [索引](MySQL学习/day08_索引.md)
 
 ---
 
-### 🤖 机器学习笔记 (73篇)
+### ⚙️ 后端开发
 
-**NumPy** [创建数组](机器学习笔记/numpy/day01_创建数组.md) · [索引切片](机器学习笔记/numpy/day02_索引切片.md) · [常用函数](机器学习笔记/numpy/day03_常用函数.md)
+**FastAPI学习** (33篇)
+[预备知识](FastAPI学习/基础篇/ch01_预备知识.md) · [快速入门](FastAPI学习/基础篇/ch02_快速入门.md) · [路径参数](FastAPI学习/基础篇/ch03_路径参数.md) · [查询参数](FastAPI学习/基础篇/ch04_查询参数.md) · [请求体](FastAPI学习/基础篇/ch05_请求体.md) · [查询参数字符验证](FastAPI学习/基础篇/ch06_查询参数字符验证.md) · [路径参数数字验证](FastAPI学习/基础篇/ch07_路径参数数字验证.md) · [查询参数模型](FastAPI学习/基础篇/ch08_查询参数模型.md) · [请求体多参数](FastAPI学习/基础篇/ch09_请求体_多个参数.md) · [请求体字段](FastAPI学习/基础篇/ch10_请求体_字段.md)
 
-**Pandas** [基础入门](机器学习笔记/pandas/day01_基础入门.md) · [索引](机器学习笔记/pandas/day02_索引.md) · [分组](机器学习笔记/pandas/day03_分组.md)
+[请求体嵌套模型](FastAPI学习/基础篇/ch11_请求体_嵌套模型.md) · [声明请求示例数据](FastAPI学习/基础篇/ch12_声明请求示例数据.md) · [额外数据类型](FastAPI学习/基础篇/ch13_额外数据类型.md) · [Cookie参数](FastAPI学习/基础篇/ch14_Cookie参数和参数模型.md) · [Header参数](FastAPI学习/基础篇/ch15_Header参数和参数模型.md) · [响应体数据模型](FastAPI学习/基础篇/ch16_响应体数据模型.md) · [多模型设计思路](FastAPI学习/基础篇/ch17_多个数据模型设计思路.md) · [响应状态码](FastAPI学习/基础篇/ch18_响应状态码.md) · [表单数据](FastAPI学习/基础篇/ch19_表单数据_表单模型.md) · [上传文件](FastAPI学习/基础篇/ch20_上传文件_请求表单和文件.md)
 
-**Numba** [学习大纲](机器学习笔记/numba/学习大纲.md) · [概述与安装](机器学习笔记/numba/doc/ch01-概述与安装.md) · [JIT装饰器](机器学习笔记/numba/doc/ch02-基础用法-JIT装饰器.md) · [类型系统](机器学习笔记/numba/doc/ch03-Numba类型系统.md) · [GPU加速](机器学习笔记/numba/doc/ch09-GPU加速入门.md) · [更多 →](机器学习笔记/numba/doc/)
-
-**Joblib** [学习大纲](机器学习笔记/joblib/doc/00-学习大纲.md) · [序列化](机器学习笔记/joblib/doc/02-dump-load-序列化.md) · [并行](机器学习笔记/joblib/doc/07-Parallel-delayed-并行.md) · [更多 →](机器学习笔记/joblib/doc/)
-
-**Optuna** [核心概念](机器学习笔记/optuna/docs/01-核心概念与基础用法.md) · [采样器](机器学习笔记/optuna/docs/02-采样器原理深入.md) · [剪枝策略](机器学习笔记/optuna/docs/03-剪枝策略实战.md) · [更多 →](机器学习笔记/optuna/docs/)
-
-**Prophet** [快速入门](机器学习笔记/prophet/doc/chapter02-Prophet快速入门.md) · [趋势建模](机器学习笔记/prophet/doc/chapter03-趋势建模.md) · [季节性](机器学习笔记/prophet/doc/chapter04-季节性建模.md) · [更多 →](机器学习笔记/prophet/doc/)
-
-**SciPy** [信号生成](机器学习笔记/scipy/scipy.signal/doc/01_信号生成与基本操作.md) · [滤波器设计](机器学习笔记/scipy/scipy.signal/doc/03_FIR滤波器设计_窗口法.md) · [频谱分析](机器学习笔记/scipy/scipy.signal/doc/07_频谱分析与功率谱密度估计.md) · [更多 →](机器学习笔记/scipy/scipy.signal/doc/)
+[处理错误](FastAPI学习/基础篇/ch21_处理错误.md) · [路径操作配置](FastAPI学习/基础篇/ch22_路径操作配置_JSON兼容编码器.md) · [请求体更新](FastAPI学习/基础篇/ch23_请求体_更新.md) · [依赖注入初识](FastAPI学习/进阶篇/ch24_依赖注入初识.md) · [类作为依赖项](FastAPI学习/进阶篇/ch25_类作为依赖项.md) · [子依赖项](FastAPI学习/进阶篇/ch26_子依赖项_装饰器依赖项.md) · [全局依赖项](FastAPI学习/进阶篇/ch27_全局依赖项_yield依赖项.md) · [OAuth2](FastAPI学习/进阶篇/ch28_OAuth2基础_获取当前用户.md) · [中间件](FastAPI学习/进阶篇/ch31_中间件.md) · [跨域资源共享](FastAPI学习/进阶篇/ch32_跨域资源共享.md) · [SQLModel](FastAPI学习/进阶篇/ch33_SQLModel.md) · [多文件结构](FastAPI学习/进阶篇/ch34_多文件结构.md)
 
 ---
 
-### ⚡ FastAPI学习 (33篇)
+### 🤖 机器学习与数据分析
 
-**基础篇**  
-[预备知识](FastAPI学习/基础篇/ch01_预备知识.md) · [快速入门](FastAPI学习/基础篇/ch02_快速入门.md) · [路径参数](FastAPI学习/基础篇/ch03_路径参数.md) · [查询参数](FastAPI学习/基础篇/ch04_查询参数.md) · [请求体](FastAPI学习/基础篇/ch05_请求体.md) · [查询参数字符验证](FastAPI学习/基础篇/ch06_查询参数字符验证.md) · [路径参数数字验证](FastAPI学习/基础篇/ch07_路径参数数字验证.md) · [查询参数模型](FastAPI学习/基础篇/ch08_查询参数模型.md)
-
-[请求体多参数](FastAPI学习/基础篇/ch09_请求体_多个参数.md) · [请求体字段](FastAPI学习/基础篇/ch10_请求体_字段.md) · [请求体嵌套模型](FastAPI学习/基础篇/ch11_请求体_嵌套模型.md) · [声明请求示例数据](FastAPI学习/基础篇/ch12_声明请求示例数据.md) · [额外数据类型](FastAPI学习/基础篇/ch13_额外数据类型.md) · [Cookie参数](FastAPI学习/基础篇/ch14_Cookie参数和参数模型.md) · [Header参数](FastAPI学习/基础篇/ch15_Header参数和参数模型.md) · [响应体数据模型](FastAPI学习/基础篇/ch16_响应体数据模型.md)
-
-[多模型设计思路](FastAPI学习/基础篇/ch17_多个数据模型设计思路.md) · [响应状态码](FastAPI学习/基础篇/ch18_响应状态码.md) · [表单数据](FastAPI学习/基础篇/ch19_表单数据_表单模型.md) · [上传文件](FastAPI学习/基础篇/ch20_上传文件_请求表单和文件.md) · [处理错误](FastAPI学习/基础篇/ch21_处理错误.md) · [路径操作配置](FastAPI学习/基础篇/ch22_路径操作配置_JSON兼容编码器.md) · [请求体更新](FastAPI学习/基础篇/ch23_请求体_更新.md)
-
-**进阶篇**  
-[依赖注入初识](FastAPI学习/进阶篇/ch24_依赖注入初识.md) · [类作为依赖项](FastAPI学习/进阶篇/ch25_类作为依赖项.md) · [子依赖项](FastAPI学习/进阶篇/ch26_子依赖项_装饰器依赖项.md) · [全局依赖项](FastAPI学习/进阶篇/ch27_全局依赖项_yield依赖项.md) · [OAuth2/获取当前用户](FastAPI学习/进阶篇/ch28_OAuth2基础_获取当前用户.md)
-
-[中间件](FastAPI学习/进阶篇/ch31_中间件.md) · [跨域资源共享](FastAPI学习/进阶篇/ch32_跨域资源共享.md) · [SQLModel](FastAPI学习/进阶篇/ch33_SQLModel.md) · [多文件结构](FastAPI学习/进阶篇/ch34_多文件结构.md)
+**机器学习笔记** (73篇) — 常用库学习
+[NumPy](机器学习笔记/numpy/) · [Pandas](机器学习笔记/pandas/) · [Numba](机器学习笔记/numba/) · [Joblib](机器学习笔记/joblib/) · [Optuna](机器学习笔记/optuna/) · [Prophet](机器学习笔记/prophet/) · [SciPy](机器学习笔记/scipy/)
 
 ---
 
-### 🦜 LangChain学习 (11篇)
+### 🧠 深度学习
 
-[LangChain入门](LangChain/ch01_langchain.md) · [Agents](LangChain/ch02_Agents.md) · [Model](LangChain/ch03_Model.md) · [Messages](LangChain/ch04_Messages.md) · [Tools](LangChain/ch05_Tools.md) · [短期记忆](LangChain/ch06_ShortTermMemory.md) · [Streaming](LangChain/ch07_streaming.md) · [结构化输出](LangChain/ch08_structured_output.md) · [Middleware](LangChain/ch09_middleware.md) · [自定义Middleware](LangChain/ch10_自定义middleware.md) · [RAG检索增强生成](LangChain/ch20_Retrieval_RAG.md)
+**PyTorch学习** (24篇)
+[张量1](PyTorch学习/day01_张量1.md) · [张量2](PyTorch学习/day01_张量2.md) · [自动微分及线性回归](PyTorch学习/day02_自动微分及线性回归例子.md) · [nn模块](PyTorch学习/day03_nn模块.md) · [学习率衰减](PyTorch学习/day04_学习率衰减方法.md) · [ANN案例](PyTorch学习/day05_ANN案例.md) · [图像相关](PyTorch学习/day06_图像相关.md) · [CNN](PyTorch学习/day07_CNN.md) · [AlexNet](PyTorch学习/day08_AlexNet.md) · [VGG](PyTorch学习/day09_VGG.md)
+
+[NiN](PyTorch学习/day10_NiN.md) · [GoogLeNet](PyTorch学习/day11_GoogLeNet.md) · [ResNet](PyTorch学习/day12_ResNet.md) · [ResNet迁移策略1](PyTorch学习/day13_ResNet迁移策略1.md) · [ResNet迁移策略2](PyTorch学习/day13_ResNet迁移策略2.md) · [注意力机制1](PyTorch学习/day14_注意力机制1.md) · [注意力机制2](PyTorch学习/day14_注意力机制2.md) · [Transformer](PyTorch学习/day14_Transformer.md) · [BERT](PyTorch学习/day15_BERT.md)
+
+**Stable Diffusion学习** (22篇)
+[生成模型概览](StableDiffusion学习/doc/1.1-生成模型概览.md) · [DDPM前向过程](StableDiffusion学习/doc/1.2-DDPM前向过程.md) · [DDPM反向过程](StableDiffusion学习/doc/1.3-DDPM反向过程.md) · [DDIM采样加速](StableDiffusion学习/doc/1.4-DDIM采样加速.md)
+
+[SD架构总览](StableDiffusion学习/doc/2.1-SD架构总览.md) · [VAE潜空间](StableDiffusion学习/doc/2.2-VAE潜空间.md) · [UNet去噪网络](StableDiffusion学习/doc/2.3-UNet去噪网络.md) · [CLIP与条件控制](StableDiffusion学习/doc/2.4-CLIP与条件控制.md) · [噪声调度器](StableDiffusion学习/doc/2.5-噪声调度器.md)
+
+[训练目标与损失](StableDiffusion学习/doc/3.1-训练目标与损失.md) · [数据集与标注](StableDiffusion学习/doc/3.2-数据集与标注.md) · [Dreambooth](StableDiffusion学习/doc/3.3-Dreambooth.md) · [TextualInversion](StableDiffusion学习/doc/3.4-TextualInversion.md) · [LoRA](StableDiffusion学习/doc/3.5-LoRA.md)
+
+[CFG详解](StableDiffusion学习/doc/4.1-CFG详解.md) · [ControlNet](StableDiffusion学习/doc/4.2-ControlNet.md) · [IPAdapter](StableDiffusion学习/doc/4.3-IPAdapter.md) · [Inpainting](StableDiffusion学习/doc/4.4-Inpainting.md)
+
+[蒸馏加速](StableDiffusion学习/doc/5.1-蒸馏加速.md) · [推理优化](StableDiffusion学习/doc/5.2-推理优化.md)
+
+**时间序列预测** (10篇)
+[DeepAR](时间序列预测/doc/01_traditional/01_deepar.md) · [TCN](时间序列预测/doc/02_convolution/01_tcn.md) · [TimesNet](时间序列预测/doc/02_convolution/02_timesnet.md) · [ModernTCN](时间序列预测/doc/02_convolution/03_moderntcn.md) · [DLinear](时间序列预测/doc/03_mlp/01_dlinear.md) · [FEDformer](时间序列预测/doc/04_transformer/01_fedformer.md) · [PatchTST](时间序列预测/doc/04_transformer/02_patchtst.md) · [iTransformer](时间序列预测/doc/04_transformer/03_itransformer.md) · [TimeXer](时间序列预测/doc/04_transformer/04_timexer.md) · [时序预测发展史与范式认知转变](时间序列预测/doc/时序预测发展史与范式认知转变.md)
 
 ---
 
-### 🔥 PyTorch学习 (24篇)
+### 🔗 AI应用框架
 
-**基础部分**  
-[张量1](PyTorch学习/day01_张量1.md) · [张量2](PyTorch学习/day01_张量2.md) · [自动微分及线性回归](PyTorch学习/day02_自动微分及线性回归例子.md) · [nn模块](PyTorch学习/day03_nn模块.md) · [学习率衰减](PyTorch学习/day04_学习率衰减方法.md) · [ANN案例](PyTorch学习/day05_ANN案例.md)
-
-**计算机视觉**  
-[图像相关](PyTorch学习/day06_图像相关.md) · [CNN](PyTorch学习/day07_CNN.md) · [AlexNet](PyTorch学习/day08_AlexNet.md) · [VGG](PyTorch学习/day09_VGG.md) · [NiN](PyTorch学习/day10_NiN.md) · [GoogLeNet](PyTorch学习/day11_GoogLeNet.md) · [ResNet](PyTorch学习/day12_ResNet.md) · [ResNet迁移策略1](PyTorch学习/day13_ResNet迁移策略1.md) · [ResNet迁移策略2](PyTorch学习/day13_ResNet迁移策略2.md)
-
-**注意力机制与Transformer**  
-[注意力机制1](PyTorch学习/day14_注意力机制1.md) · [注意力机制2](PyTorch学习/day14_注意力机制2.md) · [Transformer](PyTorch学习/day14_Transformer.md) · [BERT](PyTorch学习/day15_BERT.md)
-
----
-
-### 📈 时间序列预测 (10篇)
-
-**传统范式** [DeepAR](时间序列预测/doc/01_traditional/01_deepar.md)
-
-**卷积范式** [TCN](时间序列预测/doc/02_convolution/01_tcn.md) · [TimesNet](时间序列预测/doc/02_convolution/02_timesnet.md) · [ModernTCN](时间序列预测/doc/02_convolution/03_moderntcn.md)
-
-**MLP范式** [DLinear](时间序列预测/doc/03_mlp/01_dlinear.md)
-
-**Transformer范式** [FEDformer](时间序列预测/doc/04_transformer/01_fedformer.md) · [PatchTST](时间序列预测/doc/04_transformer/02_patchtst.md) · [iTransformer](时间序列预测/doc/04_transformer/03_itransformer.md) · [TimeXer](时间序列预测/doc/04_transformer/04_timexer.md)
-
-**综述** [时序预测发展史与范式认知转变](时间序列预测/doc/时序预测发展史与范式认知转变.md)
+**LangChain学习** (11篇)
+[LangChain入门](LangChain/ch01_langchain.md) · [Agents](LangChain/ch02_Agents.md) · [Model](LangChain/ch03_Model.md) · [Messages](LangChain/ch04_Messages.md) · [Tools](LangChain/ch05_Tools.md) · [短期记忆](LangChain/ch06_ShortTermMemory.md) · [Streaming](LangChain/ch07_streaming.md) · [结构化输出](LangChain/ch08_structured_output.md) · [Middleware](LangChain/ch09_middleware.md) · [自定义Middleware](LangChain/ch10_自定义middleware.md) · [RAG](LangChain/ch20_Retrieval_RAG.md)
 
 ---
 
 ## 📊 仓库概览
 
-| 技术方向 | 笔记数量 | 主要内容 |
-|---------|---------|---------|
-| 数据结构与算法 | 17 | 线性结构、树形结构、图论、经典算法 |
-| Python语法 | 20 | 基础语法、面向对象、高级特性、异步编程 |
-| JavaSE基础 | 15 | Java语法、OOP、集合框架、常用类库 |
-| MySQL学习 | 8 | SQL基础、查询优化、窗口函数、索引 |
-| 机器学习笔记 | 73 | NumPy、Pandas、Numba、Joblib、Optuna、Prophet、SciPy |
-| FastAPI学习 | 33 | 基础篇23章、进阶篇10章 |
-| LangChain学习 | 11 | Agent、Model、Tools、Memory、RAG |
-| PyTorch学习 | 24 | 深度学习基础、计算机视觉、Transformer |
-| 时间序列预测 | 10 | DeepAR、TCN、TimesNet、DLinear、FEDformer等 |
-
-**总计：211篇完整笔记**
-
----
+| 分类 | 笔记数量 | 主要内容 |
+|------|---------|---------|
+| 🖥️ 编程语言 | 35 | Python语法（20） + JavaSE基础（15） |
+| 🏗️ 计算机基础 & 数据库 | 25 | 数据结构与算法（17） + MySQL（8） |
+| ⚙️ 后端开发 | 33 | FastAPI全栈学习 |
+| 🤖 机器学习与数据分析 | 73 | NumPy、Pandas、Numba、Joblib、Optuna、Prophet、SciPy |
+| 🧠 深度学习 | 56 | PyTorch（24） + Stable Diffusion（22） + 时间序列（10） |
+| 🔗 AI应用框架 | 11 | LangChain框架学习 |
+| **总计** | **233** | **6大方向，10个专题文件夹** |
 
 ## 📝 说明
 
