@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model files
+*.ckpt
+*.safetensors
+*.pth
+*.onnx
+
+# OS
+.DS_Store
+Thumbs.db
